@@ -49,6 +49,9 @@
         <mxCell id="KlPzLaDLmhrTk22VPTnQ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.479;entryY=0.164;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KlPzLaDLmhrTk22VPTnQ-9" target="KlPzLaDLmhrTk22VPTnQ-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="KlPzLaDLmhrTk22VPTnQ-18" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;IP Red Privada: 172.20.2.1/24&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Rangos de IP: 172.20.2.1-254&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Máscara de Subred: 255.255.255.0&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="130" y="480" width="206" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
